@@ -12,6 +12,7 @@ To write a program for Frequency Modulation and Demodulation using SCILAB and to
 •	Computer with i3 Processor
 •	SCI LAB
 
+
 # THEORY:
 
 Frequency modulation is a type of modulation in which the frequency of the high frequency (carrier) is varied in accordance with the instantaneous value of the modulating signal.
