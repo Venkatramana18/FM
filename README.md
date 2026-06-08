@@ -85,7 +85,8 @@ Verify the generated waveform using Tabulation and Model Waveform
 
 # Calculation
 
-<img width="1024" height="1280" alt="image" src="https://github.com/user-attachments/assets/a69039a5-7114-4c6d-91b6-9fc9c2a8673b" />
+<img width="996" height="848" alt="WhatsApp Image 2026-06-08 at 10 47 36 AM (5)" src="https://github.com/user-attachments/assets/9ed25dba-b746-4ce7-9f5f-664f2e39dc6a" />
+
 
 # RESULT:
 
