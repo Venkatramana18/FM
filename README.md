@@ -68,16 +68,19 @@ Verify the generated waveform using Tabulation and Model Waveform
 
 # Program
 
-<img width="1600" height="1001" alt="WhatsApp Image 2026-05-28 at 21 40 01" src="https://github.com/user-attachments/assets/b7da344a-aaa8-42ac-bfec-39838166f71e" />
+<img width="1918" height="1107" alt="image" src="https://github.com/user-attachments/assets/05b9e071-9b30-45a4-be18-8e05f8ee0652" />
+
 
 # Output Waveform
 
-<img width="1600" height="999" alt="WhatsApp Image 2026-05-28 at 21 40 13" src="https://github.com/user-attachments/assets/0c27f4aa-9ae0-4b9f-a1b0-cc2c7fc19143" />
+<img width="1918" height="1107" alt="image" src="https://github.com/user-attachments/assets/d4d2c6f5-2a6f-40b5-9d63-c61c27b91846" />
+
 
 
 # Tabulation
 
-<img width="1280" height="706" alt="image" src="https://github.com/user-attachments/assets/a0e18572-ad06-4e25-b1d8-261eb28ca087" />
+<img width="1328" height="896" alt="WhatsApp Image 2026-06-08 at 10 47 36 AM (4)" src="https://github.com/user-attachments/assets/48f8e616-aa92-497d-a205-39013cda650c" />
+
 
 
 # Calculation
